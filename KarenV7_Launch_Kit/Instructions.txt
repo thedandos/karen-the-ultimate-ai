@@ -1,0 +1,11 @@
+KAREN V7 LAUNCH KIT - SIMPLE INSTRUCTIONS
+
+1. Unzip this folder.
+2. Open Terminal, navigate to the folder, and run:
+   python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && streamlit run app.py
+
+3. The app will launch in your browser at http://localhost:8501
+4. On iPhone, connect to same WiFi and open your local IP with :8501
+
+You're done. Nova, Karen, and EarlyBirdX will be live.
+requirements.txt
